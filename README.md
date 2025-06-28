@@ -16,9 +16,13 @@ Visualize relationships between variables and the predicted price.
 The dataset includes the following features:
 
 Feature	Description :
+
 Car Model  :	The make/model of the car (e.g., Toyota Corolla)
+
 Mileage :	Distance driven (in km or miles)
+
 Age (yrs) : 	Age of the car in years
+
 Sell Price ($)	:  Target variable – resale price of the car
 
 
